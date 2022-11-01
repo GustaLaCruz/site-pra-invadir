@@ -1,0 +1,62 @@
+.topo{
+    height: 10em;
+    background-color: green;
+    text-align: center;
+    color: #fff;
+}
+
+.footer{
+    height: 5em;
+    background-color: green;
+    color: #fff;
+    text-align: center;
+  
+}
+
+.footer p{
+    padding-top: 1.5em;
+}
+.foto-logo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.foto-logo img{
+    width: 20em;
+    height: 20em;
+    margin: 0 auto;
+}
+main{
+    margin-top: 2%;
+    margin-bottom: 10%;
+}
+
+
+.login{
+    width: 20em;
+    margin: 0 auto;
+}
+
+.nav-pills > li {
+    float: none !important;
+    display: inline-block !important;
+}
+
+.menu{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.video, .audio{
+    width: 100%;
+}
+
+.linha-conteudo{
+    margin-top: 15px;
+}
+
+.linha-conteudo a{
+    margin-bottom: 5px;
+}
